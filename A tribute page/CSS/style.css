@@ -1,0 +1,72 @@
+#page-heading { 
+    font-style: italic;
+    font-family: Georgia, sans-serif;
+    font-size: 34px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #c6e8e7;
+
+}
+
+#page-heading{
+    font-style: italic;
+    text-align: center;
+ 
+}
+
+#bad_corner_1{
+    margin: 0px 0px 0px 52px;
+
+}
+
+#bad_corner_2{
+    margin: 0px 0px 0px 145px;
+
+}
+
+#main-image {
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: auto;
+    width: 89%;
+    display: block;
+    border-radius: 22px;
+}
+
+    
+
+.events{
+   
+    color:#c6e8e7;
+    font-style: italic;
+    margin: 20px 40px 20px 20px;
+}
+ 
+.container {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    background-attachment: fixed;
+    background-size: cover;
+    border-radius: 20%;
+    display:flex
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
